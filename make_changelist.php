@@ -23,9 +23,11 @@ foreach ($tracked as $file) {
 	}
 	
 	if (count($added)) {
-		echo $file . ': ' . PHP_EOL;
-		echo '===' . PHP_EOL;
-		echo implode(PHP_EOL, $added) . PHP_EOL;
+		echo '## ' . $file . ': ' . PHP_EOL;
+		echo ' ' . PHP_EOL;
+		foreach ($added as $name) {
+			echo ' - ' . $name . PHP_EOL;
+		}
 		echo ' ' . PHP_EOL;
 	}
 	
