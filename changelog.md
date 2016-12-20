@@ -1,0 +1,151 @@
+# changelog
+
+## 20.12.2016
+
+### xenofilove
+ 
+ - Monika Janisova Saadeh
+ - Richard Souček
+ - Mirek Burkoň
+ - Zuzana Friday Přikrylová
+ - Dora Kaprálová
+ - Barbora Adewale
+ - Romana Blechová
+ - Pavel Bělobrádek
+ - Barbora Vrablíková
+ - Magdalena Klimovičová
+ - Alena Hosnedlová
+ - Jitka Rabitsch Adamčíková
+ - Barbora Hořavová
+ - Jan Heinrich
+ - Milan Jaroš
+ - Nicole Wagnerová
+ - Jana Alač
+ - Michal Majzner
+ - Václav Fanta
+ - Jaroslav Pašmik
+ - Milan Pražák
+ - Tereza Selmbacherová
+ - Pavla Hrdličková
+ - Ester Karasová
+ - Kateřina Nechvílová
+ - Jan Faix
+ - Martina Vančáková
+ - Michal Němeček
+ - Vojtěch Hauser
+ - Eva Laláková
+ - Milan Janoušek
+ - Rebeca Smržová
+ - Štěpán "Rozi" Rožek
+ - Jiří Holba
+ - Matěj Hejda
+ - Jan Kurka
+ - Petra Špitálská
+ - Naděžda Frélichová
+ - Petra Procházková
+ - Nadia Demlová alias Nadia Hadri
+ - Dana Aliya Mahmoodová
+ - Martin Pfann
+ - František Pfann
+ - Michal Louč
+ - Zuzana Pokorná
+ - Jana Rejžková
+ -  Alena Štěpánková
+ - Václav Láska
+ - Jan Kašpárek
+ - Tomáš Hadrbolec
+ - Zora Vondráčková
+ - Viktor Teichman
+ - Jan Kment
+ - Ivana Kudry
+ - Magdalena Pospíchalová
+ - Karel Kamalánand Černík
+ - David Šifra 
+ - Jana Pravdová
+ - Jiří Stočes
+ - Daniel Suk
+ - Vladimír Hrubeš
+ - Ondřej Mazura
+ - Martina Ahmed Čermáková
+ - Dagmar Bláhová-Jarombeková
+ - Alžběta Karolyiová
+ - Ondřej Chlupáček
+ - Pavla Spurná
+ - Markéta Řeháková
+ - Filipína Cimrová
+ - Alžběta Michalová
+ - Roman Hruška
+ - Petr Foltýn
+ - Jakub Nippert
+ - Kristýna Hrubanová
+ - Adam Čajka
+ - Tomáš Bílý
+ - Zlata Maděřičová
+ - Markéta Špetíková
+ - Karel Hísek
+ - Michal Synek
+ - Magda Koutská
+ - Pavel Kratochvíl
+ - neziskovka Elim Letovice
+ - Johann Sabol
+ - Anna Stránská
+ - Denisa Vilhelmová
+ - Vít Černý
+ - neziskovka META
+ - sdružení NaZemi
+ 
+### hnusaci
+ 
+ - Jaroslav Vávra
+ - Kristýna Hněvsová
+ - skupina Skywalker
+ - Veronika Slámová
+ - Ben Cristovao
+ - Petr Jirsák
+ - Daniel Marvan
+ - Jan Badalec
+ - Jaroslav Leo Šrom
+ - Rozálie Kohoutová
+ - Jáchym Knězů
+ - Jakub "Smršín" Šrámek
+ - Martin Přikryl 
+ - Filip Remunda
+ - Matěj Polák
+ - Martin Polák
+ - Tadeáš Pochman
+ - František Štípek
+ - skupina Kšandy Industry
+ - Jakub Trefný
+ - Benjamin Škampa
+ - Jan Cimr
+ - Vojtěch Veselý
+ - Spitfire Company
+ - Viola Ježková 
+ - Jan Matějka
+ 
+### neomarxiste
+ 
+ - Stanislav Holubec
+ - Jakub Holubkov
+ - Dagmar Daňková
+ - Kateřina Ptáčková
+ - Blanka Nyklová
+ - Karel Dolejší
+ - Martin Hekrdla
+ - Anna Libánská
+ - Pavlína Tomášová
+ - Bohdan Ganický
+ - Matěj Žaloudek
+ - Café Jedna
+ - Lukáš Senft
+ - Alexandr Flek
+ - Tomáš Tožička
+ - Vojtěch Máca
+ - Andrea Šafařík Fridmanská
+ - Daniel Kolský
+ - Ruth Jochanan Weiniger
+ - Kateřina Peterková
+ - Miloš Neubauer
+ - Jan Kuliš
+ - Filozof Václav Bělohradský
+ 
