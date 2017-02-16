@@ -1,5 +1,138 @@
 # changelog
 
+## 16.2.2017
+
+## xenofilové
+ 
+ - Gabriela Landová
+ - Zuzana Piussi
+ - Jakub Kašpar
+ - Michaela Vyležíková
+ - Monika Jamborová
+ - Olga Šilhová
+ - Líba Taylor
+ - Veronika Jemelíková
+ - Vanda Hlaváčková
+ - Žofie Hradilková
+ - Michal Sichrovský
+ - Zuzana Karnoubová
+ - Martin Šmídl
+ - Pavlína Perutková
+ - Tereza Štěpková
+ - Judita Sereghy
+ - Pekař ( zpěvák Petr Štolba )
+ - Jonáš Kopp
+ - Filip Huněk
+ - Jan Martínek
+ - František Vosecký
+ - Samuel Zajíček
+ - Jakub Šlajs
+ - Barbora Vrablíková
+ - Magdalena Klimovičová
+ - Alena Hosnedlová
+ - Jitka Rabitsch Adamčíková
+ - Barbora Hořavová
+ - Jan Heinrich
+ - Milan Jaroš
+ - Nicole Wagnerová
+ - Jana Alač
+ - Michal Majzner
+ - Václav Fanta
+ - Jaroslav Pašmik
+ - Milan Pražák
+ - Tereza Selmbacherová
+ - Pavla Hrdličková
+ - Ester Karasová
+ - Kateřina Nechvílová
+ - Jan Faix
+ - Martina Vančáková
+ - Michal Němeček
+ - Vojtěch Hauser
+ - Eva Laláková
+ - Milan Janoušek
+ - Rebeca Smržová
+ - Štěpán "Rozi" Rožek
+ - Jiří Holba
+ - Matěj Hejda
+ - Roman Bradáč
+ - Nina Rutová
+ - Lea Jirovská
+ - Ondřej Černoš
+ - Štěpán Klimeš
+ - Kristina Andělová
+ - Helena Franke
+ - Jakub Grygar
+ - Ivan Gabal
+ - Miroslav Prokeš
+ - Jan Exner
+ - Lenka Amri ( Reichová)
+ - Matěj Opočenský
+ - Johana Labusová
+ - Tomáš Kaplan
+ - Sabina Vassileva
+ - Markéta Hodková
+ - Lubor Vokrouhlický
+ - Monika Hanková
+ - Boleslav Kerouš
+ - Gabriela Selingerová
+ - Jakub Kýr
+ - Zdeněk Ralík 
+ - Blanka Havlíčková
+ - Alžběta Rothová
+ - Radka Římanová
+ - Zuzana Vránová
+ - Dominik Strnad
+ - Šárka Kindlová
+ - Barbora Přibylová Kočková
+ - Jiří Stočes
+ - PhDr. Jan Záhořík Ph.D.
+ - Lucie Poláková
+ - Tereza Vejříková
+ - Kristián Ott
+ - Matěj Stráník
+ - Dominik Grohmann
+ - Libor Vodička
+ - Jaroslava Ševčíková
+ - Jitka Seitlová
+ - Šárka Adámková
+ 
+## hnusáci
+ 
+ - Dana Machajová alias Damián Machaj
+ - Veronika Neškodná
+ - Vladimír Škultéty
+ - Matěj Kašpar
+ - Jana Plavec
+ - Oldřich Bureš
+ - Lukáš Brojír
+ - Roman Galovič
+ - Lukáš Novák
+ - Anna Vanclová
+ - Zuzana Kříčková
+ - Jan Zeman
+ - Werner Roth
+ - Andrea Knotková alias Iamme Candlewick
+ - Jakub Čermák alias Cermaque
+ - Petr Horák
+ - Cyril Holub, Ondřej Frunc ( firma F. H. Prager)
+ - Jan "Boldrik" Toman
+ - PhDr. Ladislav Zikmund-Lender ( na fotce vpravo) 
+ 
+## neomarxisté
+ 
+ - Pavel Himl
+ - Václav Bělohradský
+ - Matěj Spurný
+ - Filip Zatloukal
+ - Martin "džestro" Jestřábek
+ - Prof. PhDr. Igor Lukeš, Ph.D.
+ - Jan Kelbich
+ - Veronika Frantová
+ - Karel Čada
+ - Genderové informační centrum NORA, Brno
+ - Jan Trnka
+ - Layla Bartheldi ( Petra Lálová )
+
 ## 20.12.2016
 
 ### xenofilove
