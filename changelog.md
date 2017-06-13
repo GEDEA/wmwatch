@@ -1,8 +1,88 @@
 # changelog
 
+## 13.6.2017
+
+### hnusáci
+
+ - Jiří Metod Kassl
+ - Jany Trnka
+ - Marie Čtveráčková alias Mary C
+
+### neomarxisté
+
+ - Silvestr Vandrovec Špaček
+ - Ondřej Bělíček a Jan Bělíček
+ - Lukáš Jelínek
+ - Jaroslav Fiala
+ - Pavel Šplíchal
+ - Jonáš Kreisinger
+ - Štěpán Mairovský
+ - Jiří Otáhal
+ - Genderová expertní komora ČR
+ - Tomáš Hlaváček
+ - Zbyněk Machát
+ - Vojtěch Roček
+ - Pavla Špondrová
+ - Petra Kutálková
+
+### xenofilové
+
+ - Jaroslav Jindra
+ - Michal Roth
+ - Tereza Chábová
+ - Anna Vinařická
+ - Tomáš Jun
+ - Lucie Macků
+ - Tereza Cibulková
+ - Kateřina Honzíková
+ - Miriam Zelenková Olojo
+ - Tamara Kováčová
+ - Veronika Endrštová
+ - Lukáš Policar
+ - Zdeněk Jahn
+ - Radka Zítková
+ - Jitka Pánek Jurková
+ - PhDr. Pavla Jonssonová
+ - Eliška Janečková
+ - Michaela Hadravová
+ - Aleš Vitinger
+ - Julie Křivohlavá
+ - Vojtěch Badalec
+ - Ondřej Michálek
+ - Tomáš Weiss
+ - Lucie Bláhová
+ - Hana Holubkovová
+ - Martin Vopalecký
+ - Kristýna Jenerálová
+ - Zuzana Schwarzová
+ - Kateřina Dvořáková
+ - Lenka Benešová
+ - Magdalena Boukhemisová
+ - Petra Hrubá
+ - Albína Mrázová
+ - Barbora Kohoutová
+ - Kristýna Litomerická
+ - Michala Havlíčková
+ - Henrieta Hynek
+ - Martin Merhout
+ - Petr Seiner
+ - Karolína Pawlusová
+ - Martin Rexa
+ - Eva Malířová
+ - Jan Motal
+ - Eva Tománková
+ - Dagmar Krišová
+ - Klára Škrobánková
+ - Jan Sebera
+ - Michal Jašek
+ - Eva Kicková
+ - Petra Němcová
+ - Jan Brothánek
+ - Eva Zajíčková
+
 ## 16.2.2017
 
-## xenofilové
+### xenofilové
  
  - Gabriela Landová
  - Zuzana Piussi
@@ -96,7 +176,7 @@
  - Jitka Seitlová
  - Šárka Adámková
  
-## hnusáci
+### hnusáci
  
  - Dana Machajová alias Damián Machaj
  - Veronika Neškodná
@@ -118,7 +198,7 @@
  - Jan "Boldrik" Toman
  - PhDr. Ladislav Zikmund-Lender ( na fotce vpravo) 
  
-## neomarxisté
+### neomarxisté
  
  - Pavel Himl
  - Václav Bělohradský
